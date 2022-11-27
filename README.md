@@ -70,3 +70,5 @@
 
 ### Логическая схема базы данных
 ![wiki-rpz](https://user-images.githubusercontent.com/47574124/204141242-50664ac1-f727-4dd2-8620-49211efdc23b.png)
+### Физическая схема базы данных
+![image](https://user-images.githubusercontent.com/47574124/204141656-0f529918-e60d-4c53-b64c-34f0a0103355.png)
