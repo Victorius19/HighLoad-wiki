@@ -131,3 +131,11 @@ Nginx может выдерживать порядка 50к RPS, однако ч
 | Network | Количество |
 |-|-|
 | 10 Gb | 10 |
+
+## 8. Источники
+
+1. https://ru.wikipedia.org/
+2. https://www.semrush.com/website/wikipedia.org/overview/
+3. https://www.similarweb.com/ru/website/wikipedia.org/
+4. https://stats.wikimedia.org/#/en.wikipedia.org/
+5. https://www.statista.com
